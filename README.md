@@ -1,4 +1,4 @@
-# Vehicle Detecting & Counting
+# Vehicle Detecting & Counting (Comment in Chinese)
 Using Opencv
 <br><br>
 The modules you need to import
